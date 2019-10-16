@@ -38,3 +38,8 @@ aside.secundary-feature {
 	height: 85vh;
 	color: #fff;
 }
+
+#map { 
+		 height: 100%; 
+		 margin: 0;
+ }
